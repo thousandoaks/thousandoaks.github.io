@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# Python4DS101
+code associated to Python4DS101
+please refer to the sessions folder.
 
-You can use the [editor on GitHub](https://github.com/thousandoaks/thousandoaks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to click on the following button to launch your own jupyter-based computing platform.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thousandoaks/Python4DS101/master)
